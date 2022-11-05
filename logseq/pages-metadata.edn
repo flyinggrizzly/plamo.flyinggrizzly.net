@@ -1,9 +1,15 @@
-[{:block/name "2022-11-04",
-  :block/created-at 1667602550780,
-  :block/updated-at 1667602550780}
+[{:block/name "2022",
+  :block/created-at 1667649182547,
+  :block/updated-at 1667649182547}
  {:block/name "2022-11-05",
   :block/created-at 1667649010322,
   :block/updated-at 1667649010322}
+ {:block/name "2022/11",
+  :block/created-at 1667649182547,
+  :block/updated-at 1667649182547}
+ {:block/name "2022/11/04",
+  :block/created-at 1667649182546,
+  :block/updated-at 1667649182546}
  {:block/name "a",
   :block/created-at 1667570259306,
   :block/updated-at 1667570259306}
@@ -45,7 +51,7 @@
   :block/updated-at 1667570259305}
  {:block/name "flying grizzly plamo",
   :block/created-at 1667649091407,
-  :block/updated-at 1667649091407}
+  :block/updated-at 1667649286857}
  {:block/name "gaia notes",
   :block/created-at 1667601766038,
   :block/updated-at 1667601766038}
