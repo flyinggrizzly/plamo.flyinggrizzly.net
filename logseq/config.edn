@@ -299,4 +299,5 @@
  :publishing/all-pages-public? true
  :journal/page-title-format "yyyy-MM-dd"
  :editor/logical-outdenting? true
+ :feature/enable-journals? false
  }
