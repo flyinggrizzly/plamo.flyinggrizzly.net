@@ -1,4 +1,4 @@
-- Hey. I'm Sean.
+- Hey. I'm Sean. I really enjoy making plastic models, and this is where I keep track of and chat shit to myself about my work.
 - ## Log
 - [[2022/11/04]]:
 	- [[MG Barbatos]] painting plan:
