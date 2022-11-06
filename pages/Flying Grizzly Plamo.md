@@ -1,11 +1,19 @@
 - Hey. I'm Sean. I really enjoy making plastic models, and this is where I keep track of and chat shit to myself about my work.
+-
 - ## Log
+- [[2022/11/06]]:
+	- [[MG Barbatos]] painting plan updates:
+		- In general, I was finding some of the pure colors too poppy and saturated, so this update is mostly about toning that down with undercoating and integrating more of the desaturated blues and reds in [[Mr Color/131 Propeller Color (slightly reddish brown)]] and [[Mr Color/125 Cowling Color (almost black blue)]]
+		- Yellow: the brass ([[Mr Color/Metal Color/219 Brass]]) was looking a little out of place next to the gritty white, so I'm going back to [[Mr Color/58 Orange Yellow]], but this time undercoating it with [[Mr Color/131 Propeller Color (slightly reddish brown)]]. I'm hoping that resolves the issue I had before with the orange yellow being too bright next to the dark undercoated white.
+		- Blue black: I ended up using the same [[Mr Color/40 German Gray]] from the cables for these instead of [[Mr Color/125 Cowling Color (almost black blue)]], since it's mixing in with [[Mr Color/37 RLM 75 Gray Violet]] and who knows what else in [[lacquer dish/01 black gray]]
+		- Blue (new entry): undercoated with [[Mr Color/131 Propeller Color (slightly reddish brown)]], and will paint with probably a mix of [[Mr Color/GX/5 Susie Blue]] and [[Mr Color/125 Cowling Color (almost black blue)]] to darken it. Plus maybe some [[Mr Color/GX/114 Super Clear Flat]] to flat it out
+		- Red: I had started with a rough brush of straight [[Mr Color/GX/3 Red]], but it was again... like the orange yellow,too bright. So I've recoated it with [[Mr Color/125 Cowling Color (almost black blue)]] and will go over it with a mix of [[Mr Color/GX/3 Red]] plus maybe some [[Mr Color/131 Propeller Color (slightly reddish brown)]] later
 - [[2022/11/04]]:
 	- [[MG Barbatos]] painting plan:
 		- White armor: use [[rapid thinner]], coarse brushes, and [[Mr Color/Mr Surfacer/500]] + [[Mr Color/131 Propeller Color (slightly reddish brown)]]  to create radiating ridge texture, then airbrush with a mix of [[Mr Color/GX/1 White]] + [[Mr Color/GX/114 Super Clear Flat]] and a drop of [[Gaia Notes/028 Stone Green]] thinned with [[rapid thinner]] again
 		- Frame: [[Mr Color/GX/3 Red]] undercoat, then [[Gaia Notes 125 Star Bright Iron]] over it to get a slightly reddish iron
 			- Molded cable detail: [[Mr Color/40 German Gray]], which is 3/4 flat which is a nice contrast
-		- Yellow: Handbrush ~~[[Mr Color 58 Orange Yellow]]~~ [[Mr Color/Metal Color/219 Brass]]
+		- Yellow: Handbrush ~~[[Mr Color/58 Orange Yellow]]~~ [[Mr Color/Metal Color/219 Brass]]
 		- Blue black: Handbrush [[Mr Color/125 Cowling Color (almost black blue)]]
 			- Chrome parts: sand back, and either spray or brush on [[Mr Color/Super Metallic/206 Super Chrome Silver 2]]
 		- Molded mustard gold: Handbrush either [[Mr Color/Metal Color/219 Brass]] ~~or [[Mr Color/Super Metallic/202 Super Gold 2]]~~

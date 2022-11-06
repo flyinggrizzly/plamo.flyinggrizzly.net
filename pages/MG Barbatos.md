@@ -6,4 +6,3 @@
 - ![IMG_8367.jpeg](../assets/mg-barbatos-warm-iron-progress.jpeg)
 - Also pretty happy with the brushed texture under the white, done with [[rapid thinner]] and [[Mr Color/Mr Surfacer/500]] and a coarse stiff brush
 - ![IMG_8372.jpeg](../assets/mg-barbatos-brown-red-500-surfacer-and-progress.jpeg)
--
