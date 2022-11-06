@@ -1,0 +1,3 @@
+- One of the lovely things about [[lacquer paints]] is the way they can reactivate. This means, that kind of like watercolors, if I add thinner to previously dried paint, it will "wake back up" again, and I can continue working with it.
+- These lacquer dishes are small butter or soy sauce dishes (ceramic) that I use to paint from. I'll reuse the same dish, without cleaning, for painting similar colors over time. This means my colors will end up shifting ever so slightly from the jar, and also means that I end up with slightly more cohesive colors between my pieces.
+- Credit where it's due, this is a trick I learned from [[Lincoln Wright]]. Check out his [video on wet blending acrylic lacquers](https://www.youtube.com/watch?v=zM_-38irnzg)
