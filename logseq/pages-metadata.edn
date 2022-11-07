@@ -1,4 +1,7 @@
-[{:block/name "2022",
+[{:block/name "",
+  :block/created-at 1667781729720,
+  :block/updated-at 1667781729720}
+ {:block/name "2022",
   :block/created-at 1667649182547,
   :block/updated-at 1667649182547}
  {:block/name "2022/11",
@@ -35,8 +38,8 @@
   :block/created-at 1667780949655,
   :block/updated-at 1667780960462}
  {:block/name "build-log/2022-11-06 mg barbatos painting plan updates",
-  :block/created-at 1667779165199,
-  :block/updated-at 1667780902665}
+  :block/created-at 1667781733338,
+  :block/updated-at 1667781738098}
  {:block/name "c",
   :block/created-at 1667570259306,
   :block/updated-at 1667570259306}
@@ -63,7 +66,7 @@
   :block/updated-at 1667570259305}
  {:block/name "flying grizzly plamo",
   :block/created-at 1667649091407,
-  :block/updated-at 1667781681247}
+  :block/updated-at 1667781941235}
  {:block/name "gaia notes",
   :block/created-at 1667601766038,
   :block/updated-at 1667601766038}

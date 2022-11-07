@@ -8,7 +8,7 @@
                     [?p :block/namespace ?namespace]
                     [?namespace :block/name "build-log"]]
       :result-transform (fn [result]
-                                           (sort-by (comp - (fn [h] (get h :block/created-at))) result))
+                                           (sort-by (comp - (fn [h] (get h :block/name))) result))
   }
   #+END_QUERY
 -
