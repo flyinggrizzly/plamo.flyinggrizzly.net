@@ -10,6 +10,9 @@
  {:block/name "2022/11/06",
   :block/created-at 1667740892837,
   :block/updated-at 1667740892837}
+ {:block/name "6367bdf8-96e1-4a6f-8a01-1e8596a6cba9",
+  :block/created-at 1667778309154,
+  :block/updated-at 1667778309154}
  {:block/name "a",
   :block/created-at 1667570259306,
   :block/updated-at 1667570259306}
@@ -25,6 +28,15 @@
  {:block/name "bandai/p-bandai",
   :block/created-at 1667602728902,
   :block/updated-at 1667602728902}
+ {:block/name "build-log",
+  :block/created-at 1667778338426,
+  :block/updated-at 1667778338426}
+ {:block/name "build-log/2022-11-04 mg barbatos painting plan",
+  :block/created-at 1667780949655,
+  :block/updated-at 1667780960462}
+ {:block/name "build-log/2022-11-06 mg barbatos painting plan updates",
+  :block/created-at 1667779165199,
+  :block/updated-at 1667780902665}
  {:block/name "c",
   :block/created-at 1667570259306,
   :block/updated-at 1667570259306}
@@ -51,7 +63,7 @@
   :block/updated-at 1667570259305}
  {:block/name "flying grizzly plamo",
   :block/created-at 1667649091407,
-  :block/updated-at 1667740417829}
+  :block/updated-at 1667781681247}
  {:block/name "gaia notes",
   :block/created-at 1667601766038,
   :block/updated-at 1667601766038}
