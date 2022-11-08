@@ -11,4 +11,3 @@
                                            (sort-by (comp - (fn [h] (get h :block/name))) result))
   }
   #+END_QUERY
--

@@ -1,0 +1,7 @@
+- I finished snapping the [[HGUC Blue Destiny Unit 3 [Exam] ]] the other day, and quickly mocked this up with a [[HGUC RX-79[G] Ground Gundam]] and a [[B-Club 1/144 Hover Truck]]
+- Not sure when I'll get around to building it, but I like it. Might add a [[HGUC Gundam EZ-8]] too, but that'll need a bigger base.
+- The classic would be to do a jungle dio, but the foliage would be a lot of work. I could also be interested in a desert dio since it would lead to some fun colorways for the MS
+-
+- ![rx-79-and-hovertruck-dio-composition-sketch-1.jpeg](../assets/rx-79-and-hovertruck-dio-composition-sketch-1_1667927729654_0.jpeg)
+- ![rx-79-and-hovertruck-dio-composition-sketch-2.jpeg](../assets/rx-79-and-hovertruck-dio-composition-sketch-2_1667927746082_0.jpeg)
+-
