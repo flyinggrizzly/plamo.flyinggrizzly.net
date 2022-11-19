@@ -43,7 +43,14 @@
   :block/updated-at 1668553644022}
  {:block/name "build-log/2022-11-15 mg barbatos painting progress",
   :block/created-at 1668548050886,
-  :block/updated-at 1668551327850}
+  :block/updated-at 1668685064742}
+ {:block/name "build-log/2022-11-16 mg barbie painting mini update",
+  :block/created-at 1668684811988,
+  :block/updated-at 1668684972262}
+ {:block/name
+  "build-log/2022-11-19 finishing base painting of mg barbie's legs",
+  :block/created-at 1668878155454,
+  :block/updated-at 1668878277146}
  {:block/name "c",
   :block/created-at 1667570259306,
   :block/updated-at 1667570259306}
