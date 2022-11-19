@@ -1,4 +1,13 @@
 - Hey. I'm Sean. I really enjoy making plastic models, and this is where I keep track of and chat shit to myself about my work.
+- #+BEGIN_QUERY
+   {
+      :title [:b "builds"]
+      :query [ :find (pull ?p [*])
+                    :where
+                    [?p :block/namespace ?namespace]
+                    [?namespace :block/name "builds"]]
+  }
+  #+END_QUERY
 - query-table:: false
   #+BEGIN_QUERY
    {

@@ -1,0 +1,12 @@
+- # HGUC MSM-03 HyGogg in Marine Camo
+- ![IMG_7802.jpeg](../assets/IMG_7802_1668878915284_0.jpeg)
+- This was a lot of fun to work on. The general idea was to do it up in a more [[Kondo Kazuhisa]] style by emphasizing the weight and texture of the machine. The paintwork was a mix of handbrushed and airbrushed lacquers. I started by brushing on a thing webwork of white lines, to try and evoke the effect of light dappling through water:
+	- ![IMG_6497.jpeg](../assets/IMG_6497_1668879038414_0.jpeg)
+	- ![IMG_6500.JPG](../assets/IMG_6500_1668879019749_0.JPG)
+- After that, I traced back over the white lines with an airbrush and bluish/whitish mix to soften them. From there it was a case of mottling on blues, purples, and grays through an airbrush to filter the light lines.
+- I kept some constrast with high-shine metallics, though they also got some clear blues and greens as filters.
+- I finished with some heavy oil weathering... which unfortunately started attacking the plastic, and I had to do some extensive repairs with superglue.
+- ![IMG_7803.jpeg](../assets/IMG_7803_1668878873728_0.jpeg)
+- ![IMG_7805.jpeg](../assets/IMG_7805_1668879256085_0.jpeg)
+- ![IMG_6494.jpeg](../assets/IMG_6494_1668879221265_0.jpeg)
+- ![IMG_6855.jpeg](../assets/IMG_6855_1668879212416_0.jpeg)

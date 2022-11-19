@@ -50,7 +50,10 @@
  {:block/name
   "build-log/2022-11-19 finishing base painting of mg barbie's legs",
   :block/created-at 1668878155454,
-  :block/updated-at 1668878277146}
+  :block/updated-at 1668878540406}
+ {:block/name "builds/hguc-hygogg",
+  :block/created-at 1668878764322,
+  :block/updated-at 1668879256622}
  {:block/name "c",
   :block/created-at 1667570259306,
   :block/updated-at 1667570259306}
@@ -75,9 +78,12 @@
  {:block/name "favorites",
   :block/created-at 1667570259305,
   :block/updated-at 1667570259305}
+ {:block/name "finished-build",
+  :block/created-at 1668878764322,
+  :block/updated-at 1668878764322}
  {:block/name "flying grizzly plamo",
   :block/created-at 1667649091407,
-  :block/updated-at 1668552073485}
+  :block/updated-at 1668879430180}
  {:block/name "gaia notes",
   :block/created-at 1667601766038,
   :block/updated-at 1667601766038}
@@ -114,6 +120,9 @@
  {:block/name "in-progress",
   :block/created-at 1667570259306,
   :block/updated-at 1667570259306}
+ {:block/name "kondo kazuhisa",
+  :block/created-at 1668878955621,
+  :block/updated-at 1668878955621}
  {:block/name "lacquer dish",
   :block/created-at 1667740892841,
   :block/updated-at 1667740892841}
