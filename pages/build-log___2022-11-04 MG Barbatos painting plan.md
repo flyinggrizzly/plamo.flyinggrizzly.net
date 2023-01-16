@@ -1,6 +1,6 @@
 - # [[MG Barbatos]] painting plan
 	- White armor: use [[rapid thinner]], coarse brushes, and [[Mr Color/Mr Surfacer/500]] + [[Mr Color/131 Propeller Color (slightly reddish brown)]]  to create radiating ridge texture, then airbrush with a mix of [[Mr Color/GX/1 White]] + [[Mr Color/GX/114 Super Clear Flat]] and a drop of [[Gaia Notes/028 Stone Green]] thinned with [[rapid thinner]] again
-	- Frame: [[Mr Color/GX/3 Red]] undercoat, then [[Gaia Notes 125 Star Bright Iron]] over it to get a slightly reddish iron
+	- Frame: [[Mr Color/GX/3 Red]] undercoat, then [[Gaia Notes/125 Star Bright Iron]] over it to get a slightly reddish iron
 		- Molded cable detail: [[Mr Color/40 German Gray]], which is 3/4 flat which is a nice contrast
 	- Yellow: Handbrush ~~[[Mr Color/58 Orange Yellow]]~~ [[Mr Color/Metal Color/219 Brass]]
 	- Blue black: Handbrush [[Mr Color/125 Cowling Color (almost black blue)]]
